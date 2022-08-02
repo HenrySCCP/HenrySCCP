@@ -5,4 +5,4 @@
 <img align="left" alt="JS" heigth="28" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
 <img align="left" alt="React" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
 <img align="left" alt="jQuery" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg"/>
-<img align="left" alt="SASS" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/sass-original.svg"/>
+<img align="left" alt="SASS" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"/>
