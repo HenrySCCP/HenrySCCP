@@ -1,15 +1,5 @@
 ![GitHub Org's stars](https://img.shields.io/github/stars/henrysccp?style=social)
 
-## Social Medias:
-
-<p>
-<a href="https://t.me/HenrSCCP" target="_blank"><img align="left" alt="Telegram" heigth="20" width="30" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Telegram.png" title="Telegram" /></a>
-<a href="https://www.twitter.com/_HenrySCCP" target="_blank"><img align="left" alt="Twitter" heigth="20" width="30" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Twitter.png" title="Twitter" /></a>
-<a href="https://www.linkedin.com/in/henry-victor-794a37b0/" target="_blank"><img align="left" alt="LinkedIn" heigth="20" width="30" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/LinkedIN.png" title="LinkedIn" /></a>
-</p>
-
-<br /><br />
-
 ## Front-End :star:
 
 <p>
@@ -30,4 +20,14 @@
 <img align="left" alt="PHP" heigth="28" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" title="PHP" />
 <img align="left" alt="MySQL" heigth="28" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" title="MySQL" />
 <img align="left" alt="SQLServer" heigth="28" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="SQLServer" />
+</p>
+
+<br /><br/ >
+
+## Social Medias:
+
+<p>
+<a href="https://t.me/HenrSCCP" target="_blank"><img align="left" alt="Telegram" heigth="20" width="30" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Telegram.png" title="Telegram" /></a>
+<a href="https://www.twitter.com/_HenrySCCP" target="_blank"><img align="left" alt="Twitter" heigth="20" width="30" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Twitter.png" title="Twitter" /></a>
+<a href="https://www.linkedin.com/in/henry-victor-794a37b0/" target="_blank"><img align="left" alt="LinkedIn" heigth="20" width="30" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/LinkedIN.png" title="LinkedIn" /></a>
 </p>
