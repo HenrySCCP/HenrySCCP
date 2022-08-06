@@ -8,7 +8,7 @@
 <a href="https://www.linkedin.com/in/henry-victor-794a37b0/" target="_blank"><img align="left" alt="LinkedIn" heigth="20" width="30" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/LinkedIN.png" title="LinkedIn" /></a>
 </p>
 
-<br /><br /><br />
+<br /><br />
 
 ## Front-End :star:
 
@@ -22,7 +22,7 @@
 <img align="left" alt="NextJS" heigth="28" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" title="NextJS" />
 <img align="left" alt="jQuery"heigth="28" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" title="jQuery" />
 </p>
-<br /><br /><br />
+<br /><br />
 
 ## Back-End :beginner:
 
