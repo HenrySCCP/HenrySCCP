@@ -22,7 +22,7 @@
 <img align="left" alt="SQLServer" heigth="28" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="SQLServer" />
 </p>
 
-<br /><br/ >
+<br /><br />
 
 ## Social Medias:
 
