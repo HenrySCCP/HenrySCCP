@@ -1,4 +1,4 @@
-![GitHub Org's stars](https://img.shields.io/github/stars/henrysccp?style=social)
+![GitHub Org's stars](https://img.shields.io/github/stars/henrysoligueti?style=social)
 
 ## Front-End :star:
 
